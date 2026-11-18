@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行产物（trace 等每次运行都会变化，不入库）
+runs/
+
+# 密钥与环境变量
+.env
+*.env
+
+# IDE
+.idea/
+.vscode/
